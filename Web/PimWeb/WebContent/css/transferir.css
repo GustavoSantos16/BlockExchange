@@ -1,0 +1,55 @@
+.box_content{
+	width:80% !important;
+	position:relative;
+}
+
+
+.align_center{
+	width:100%;
+	height:auto;
+	
+	display:center;
+	align-items:center;
+	justify-content:center;
+	
+	text-align:center;
+}
+
+
+.formulario{
+	width:50%;
+	height:auto;
+	margin:auto;
+}
+
+
+
+.orange-btn{
+	margin-top:20px;
+	float:right;
+}
+
+.box_conta{
+	width:150px;
+	height:auto;
+	border: 2px solid #F58618;
+	position:absolute;
+	top:0;
+	right:0;
+	margin:20px;
+	padding:5px;
+	
+	display:flex;
+	flex-direction:column;
+}
+
+.center{
+	text-align:center;
+}
+
+hr{
+	margin:0 auto;
+	width:80%;
+	height:1px;
+	background-color:#FF5400;
+}

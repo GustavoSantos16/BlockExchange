@@ -1,0 +1,27 @@
+.box_content{
+	width:80% !important;
+}
+
+
+.align_center{
+	width:100%;
+	height:auto;
+	
+	display:center;
+	align-items:center;
+	justify-content:center;
+	
+	text-align:center;
+}
+
+
+span{
+	font-weight:bold;
+}
+.table{
+	width:30%;
+	margin:auto;
+	margin-bottom:30px;
+	
+	border:1px solid #FF5400;
+}
