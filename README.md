@@ -1,7 +1,7 @@
 # BlockExchange
 PIM – Projeto integrado multidisciplinar, os softwares desenvolvidos nesse projeto são de uso acadêmico.
 
-# Intalação
+# Instalação
 Para execução do projeto é necessário o download das suas respectivas IDE's listadas abaixo,
 e configuração do ambiente de cada tecnologia(Web, desktop, Mobile)
 
